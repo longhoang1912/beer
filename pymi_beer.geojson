@@ -1,0 +1,327 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83092,
+                    21.02084
+                ]
+            },
+            "properties": {
+                "Address": "Bia Dũng, Phố Tôn Đức Thắng 246, Quận Đống Đa, Việt Nam",
+                "name": "Bia Dũng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81171,
+                    21.01374
+                ]
+            },
+            "properties": {
+                "Address": "Legends Beer, Phố Vũ Ngọc Phan 4, Quận Đống Đa, Việt Nam",
+                "name": "Legends Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81973,
+                    21.02292
+                ]
+            },
+            "properties": {
+                "Address": "Nhà Hàng Bia Lan Chí, Phố Láng Hạ, Quận Ba Đình, Việt Nam",
+                "name": "Nhà Hàng Bia Lan Chí"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81281,
+                    21.01773
+                ]
+            },
+            "properties": {
+                "Address": "Hằng Nga, Phố Huỳnh Thúc Kháng, Quận Ba Đình, Việt Nam",
+                "name": "Hằng Nga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80786,
+                    21.00859
+                ]
+            },
+            "properties": {
+                "Address": "Mường Động Quán, Phố Hoàng Ngân, Quận Cầu Giấy, Việt Nam",
+                "name": "Mường Động Quán"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83713,
+                    21.02644
+                ]
+            },
+            "properties": {
+                "Address": "Bia Hơi Hà Nội, Phố Quốc Tử Giám 27, Quận Đống Đa, Việt Nam",
+                "name": "Bia Hơi Hà Nội"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81708,
+                    21.03232
+                ]
+            },
+            "properties": {
+                "Address": "The Tree - Vạn Phúc, Phố Vạn Bảo, Quận Ba Đình, Việt Nam",
+                "name": "The Tree - Vạn Phúc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82758,
+                    21.01443
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia Hơi Hoàn Béo, Phố Nguyễn Lương Bằng, Quận Đống Đa, Việt Nam",
+                "name": "Quán Bia Hơi Hoàn Béo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81131,
+                    21.01717
+                ]
+            },
+            "properties": {
+                "Address": "Nhà Hàng Bia Hơi, Phố Nguyên Hồng 47, Quận Đống Đa, Việt Nam",
+                "name": "Nhà Hàng Bia Hơi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80945,
+                    21.01997
+                ]
+            },
+            "properties": {
+                "Address": "Trung Tâm Bia, Ngõ 20 Huỳnh Thúc Kháng 68, Quận Đống Đa, Việt Nam",
+                "name": "Trung Tâm Bia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8255,
+                    21.02075
+                ]
+            },
+            "properties": {
+                "Address": "Nhà Hàng Sơn Bia, Phố Hoàng Cầu 2A, Quận Đống Đa, Việt Nam",
+                "name": "Nhà Hàng Sơn Bia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8214,
+                    21.01901
+                ]
+            },
+            "properties": {
+                "Address": "Bia Hơi Hoàng Cầu, Phố Mai Anh Tuấn, Quận Đống Đa, Việt Nam",
+                "name": "Bia Hơi Hoàng Cầu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83146,
+                    21.01155
+                ]
+            },
+            "properties": {
+                "Address": "Bảo Khánh, Phố Đặng Văn Ngữ, Quận Đống Đa, Việt Nam",
+                "name": "Bảo Khánh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82089,
+                    21.0162
+                ]
+            },
+            "properties": {
+                "Address": "Bia Khoái, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam",
+                "name": "Bia Khoái"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8414,
+                    21.01988
+                ]
+            },
+            "properties": {
+                "Address": "Bia Hơi Hà Nội Bình Mai, Đường Lê Duẩn 138, Quận Đống Đa, Việt Nam",
+                "name": "Bia Hơi Hà Nội Bình Mai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82664,
+                    21.02391
+                ]
+            },
+            "properties": {
+                "Address": "Bia Hơi Hải Xồm Hào Nam, Phố Hào Nam 83, Quận Đống Đa, Việt Nam",
+                "name": "Bia Hơi Hải Xồm Hào Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83307,
+                    21.01556
+                ]
+            },
+            "properties": {
+                "Address": "Goldmalt Brewhouse, Phố Xã Đàn 410, Quận Đống Đa, Việt Nam",
+                "name": "Goldmalt Brewhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82906,
+                    21.01795
+                ]
+            },
+            "properties": {
+                "Address": "Bia Hoàn Béo, Phố Đông Các, Quận Đống Đa, Việt Nam",
+                "name": "Bia Hoàn Béo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82004,
+                    21.01529
+                ]
+            },
+            "properties": {
+                "Address": "Bia Chương, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam",
+                "name": "Bia Chương"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8414,
+                    21.01988
+                ]
+            },
+            "properties": {
+                "Address": "Bia Hơi Hà Nội Cường Nga, Đường Lê Duẩn 138, Quận Đống Đa, Việt Nam",
+                "name": "Bia Hơi Hà Nội Cường Nga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8274,
+                    21.02531
+                ]
+            },
+            "properties": {
+                "Address": "Bia Hơi Lộc Tài, Phố Hào Nam, Quận Đống Đa, Việt Nam",
+                "name": "Bia Hơi Lộc Tài"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82498,
+                    21.02772
+                ]
+            },
+            "properties": {
+                "Address": "Nhà Hàng Bia Hải Xồm, Phố Giảng Võ 181, Quận Đống Đa, Việt Nam",
+                "name": "Nhà Hàng Bia Hải Xồm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8192,
+                    21.02276
+                ]
+            },
+            "properties": {
+                "Address": "Lạc Viên Quán - Bia Tiệp, Phố Láng Hạ 2, Quận Ba Đình, Việt Nam",
+                "name": "Lạc Viên Quán - Bia Tiệp"
+            }
+        }
+    ]
+}
